@@ -1,0 +1,16 @@
+{
+    "name": "admin/fpoly-base-web1840.1",
+    "autoload": {
+        "psr-4": {
+            "Admin\\FpolyBaseWeb18401\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ngocdiep"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6"
+    }
+}
